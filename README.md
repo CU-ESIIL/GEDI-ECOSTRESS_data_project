@@ -1,7 +1,7 @@
-# NEON Data Project
+# GEDI-ECOSTRESS Data Project
 
 ## Summary
-This project covers building a dataset, training and evlauating machine learning models on the data, and running diagnostics. 
+This project covers building and harmonizing a dataset, training and testing machine learning models on the data, and running diagnostics. 
 The unified dataset combines Ecostress Water Use Efficiency, SRTM, NLCD (2019), slope, aspect, and GEDI level 2B cover, pavd, and fhd data at a 5m resolution.
 
 ## Requirements
