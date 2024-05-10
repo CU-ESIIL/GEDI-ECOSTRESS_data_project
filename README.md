@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/562970498.svg)](https://zenodo.org/doi/10.5281/zenodo.11170201)
+
 # GEDI-ECOSTRESS Data Project
 
 ## Summary
